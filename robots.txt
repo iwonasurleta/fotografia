@@ -1,3 +1,3 @@
-User-agent: Google
+User-agent: *
 allow: /
 google-site-verification=kOkX4z-aipaGi5YpXEHWsfO1jUjMpp2ErNkpn7O4lcA

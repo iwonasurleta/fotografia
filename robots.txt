@@ -1,3 +1,4 @@
 User-agent: *
 allow: /
 google-site-verification=kOkX4z-aipaGi5YpXEHWsfO1jUjMpp2ErNkpn7O4lcA
+Sitemap:https://iwonasurleta.github.io/fotografia/sitemap.xml
